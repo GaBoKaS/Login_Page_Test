@@ -1,0 +1,10 @@
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\bin\Debug\Login_Page_Test.exe.config
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\bin\Debug\Login_Page_Test.exe
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\bin\Debug\Login_Page_Test.pdb
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\bin\Debug\WebDriver.dll
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\bin\Debug\WebDriver.xml
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\obj\Debug\Login_Page_Test.csprojAssemblyReference.cache
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\obj\Debug\Login_Page_Test.csproj.CoreCompileInputs.cache
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\obj\Debug\Login_Page_Test.csproj.CopyComplete
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\obj\Debug\Login_Page_Test.exe
+C:\Users\Airidas\source\repos\Login_Page_Test\Login_Page_Test\obj\Debug\Login_Page_Test.pdb
