@@ -1,7 +1,7 @@
 # Login_Page_Test
 C# Selenium test for login page using chromeDriver
 # Installation
-In order for it to work there must be a  "TestData.txt" file in "Login_Page_Test.exe" directory
+In order for it to work there must be a  "TestData.txt" file in "Login_Page_Test.exe" directory which is "Login_Page_Test/Login_Page_Test/bin/Debug/"
 # Tests
 - Login Test (tests incorrect login warning and login functionality)
 - Language Test (tests all language buttons whether they work correctly)
